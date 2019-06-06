@@ -1,11 +1,11 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="WebForm1.aspx.vb" Inherits="WebApplication1.WebForm1" %>
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
     <link href="Content/css/test.css" rel="stylesheet" />
+    <script src="Content/js/JavaScript.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 </head>
 <body>
@@ -166,22 +166,5 @@
 
     </form>
     <!-- Javascript -->
-    <script>
-        function openNav() {
-          document.getElementById("mySidenav").style.width = "250px";
-        }
-        function closeNav() {
-          document.getElementById("mySidenav").style.width = "0";
-        }
-        function changeVisibility(id) {     
-            var x = document.getElementById(id);            
-            if (x.style.display != "block") {
-                x.style.display = "block";
-            } else {
-                x.style.display = "none";
-            }     
-        }  
-
-    </script>
 </body>
 </html>

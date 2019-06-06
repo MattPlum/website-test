@@ -103,6 +103,7 @@
     <Content Include="Content\css\navbar-css.css" />
     <Content Include="Content\css\normalize.css" />
     <Content Include="Content\css\test.css" />
+    <Content Include="Content\js\JavaScript.js" />
     <Content Include="WebForm1.aspx" />
     <Content Include="Content\img\Resume_MattLee.pdf" />
     <Content Include="Web.config" />
