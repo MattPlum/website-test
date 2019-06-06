@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">    
         <nav class="navbar navbar-expand-sm bg-custom fixed-position justify-content-center">                     
-            <!-- Navigation Tabs -->
+            <!-- Navigation Tab -->
             <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link" href="mailto:leematthew3@gmail.com"><h1>Email</h1></a>
