@@ -100,9 +100,9 @@
     <Content Include="Content\img\matt1.png" />
     <Content Include="Content\img\matt2.png" />
     <Content Include="Content\img\website_project.gif" />
-    <Content Include="Content\navbar-css.css" />
-    <Content Include="Content\normalize.css" />
-    <Content Include="Content\test.css" />
+    <Content Include="Content\css\navbar-css.css" />
+    <Content Include="Content\css\normalize.css" />
+    <Content Include="Content\css\test.css" />
     <Content Include="WebForm1.aspx" />
     <Content Include="Content\img\Resume_MattLee.pdf" />
     <Content Include="Web.config" />
